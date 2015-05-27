@@ -1,0 +1,40 @@
+
+#vimfiles
+*.sw?
+
+#python 
+*.py[cod]
+*.py-e
+*.swp
+chinook
+runserver.py
+htmlcov
+output.html
+test_run
+# C extensions
+*.so
+sandman_env
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
