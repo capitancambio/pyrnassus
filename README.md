@@ -1,3 +1,5 @@
+
+[![Docs](https://readthedocs.org/projects/pyrnassus/badge/?version=latest)](https://readthedocs.org/projects/pyrnassus/badge/?version=latest)
 Intro
 =====
 
