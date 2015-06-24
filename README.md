@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/capitancambio/pyrnassus.svg?branch=master)](https://travis-ci.org/capitancambio/pyrnassus) [![Coverage Status](https://coveralls.io/repos/capitancambio/pyrnassus/badge.svg?branch=master)](https://coveralls.io/r/capitancambio/pyrnassus?branch=master) [![Docs](https://readthedocs.org/projects/pyrnassus/badge/?version=latest)](https://pyrnassus.eadthedocs.org/)
+[![Build Status](https://travis-ci.org/capitancambio/pyrnassus.svg?branch=master)](https://travis-ci.org/capitancambio/pyrnassus) [![Coverage Status](https://coveralls.io/repos/capitancambio/pyrnassus/badge.svg?branch=master)](https://coveralls.io/r/capitancambio/pyrnassus?branch=master) [![Docs](https://readthedocs.org/projects/pyrnassus/badge/?version=latest)](https://pyrnassus.readthedocs.org/)
 
 Intro
 =====
