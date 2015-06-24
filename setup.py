@@ -9,9 +9,10 @@ setup(
     author_email = "capitan.cambio@gmail.com",
     description = "muse-io 3.6.x compatible server",
     license = "MIT",
-    keywords = "muse headband,muse-io",
+    keywords = "muse headband,muse-io,brain computer interfacing",
     install_requires=[
             "pyliblo>=0.9.1",
+            "cython>=0.22",
             ],
 
 )

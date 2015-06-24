@@ -2,7 +2,7 @@ language: python
 python:
         - "2.7"
 install: 
-        - apt-get install liblo-dev
+        - pip install pyliblo 
         - python setup.py install
         - pip install coveralls
 script: nosetests  --with-coverage --cover-package=pyrnassus
