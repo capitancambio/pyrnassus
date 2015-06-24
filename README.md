@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/capitancambio/pyrnassus.svg?branch=master)](https://travis-ci.org/capitancambio/pyrnassus)
+
 [![Docs](https://readthedocs.org/projects/pyrnassus/badge/?version=latest)](https://readthedocs.org/projects/pyrnassus/badge/?version=latest)
+
 Intro
 =====
 
